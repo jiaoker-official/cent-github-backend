@@ -7,5 +7,6 @@ export default [
 	"https://oncent.github.io",
 	"https://cent.linkai.work",
 	"https://cent.link-ai.workers.dev",
-	"dailycent://"
+	"dailycent://",
+	"dailycent-auth://",
 ];
