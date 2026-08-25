@@ -26,11 +26,6 @@ enabled = true
 # 填你自己的 Gitee Client ID
 GITEE_CLIENT_ID = "47cc0dbf60e47dfde0d642e58241b21d780e868b2272c6fde45b13b1590df26e"
 
-# 白名单配置（允许你的前端访问）
-ALLOW_ORIGINS = "https://cent-app.pages.dev"
-ALLOWED_ORIGIN = "https://cent-app.pages.dev"
-ALLOWED_ORIGINS = "https://cent-app.pages.dev"
-
 # GitHub OAuth（如果不用可保留原样）
 GITHUB_CLIENT_ID = "Iv23lijSdEcci1J90rzM"
 
